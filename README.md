@@ -18,3 +18,14 @@ This project uses the following software and Python libraries:
     Flasgger
     Swagger
     Docker
+
+## Tools/IDE
+
+Jupyter notebook (IPython)
+Docker
+
+## How to use it
+
+    Fork this repository to have your own copy
+    Clone your copy on your local system
+    Install necessary packages
