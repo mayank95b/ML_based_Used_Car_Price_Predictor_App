@@ -1,4 +1,4 @@
-# Used_Car_Price_Prediction_App
+# Used_Car_Price_Predictor_App
 
 The objective of the project is to build a Web App to predict the selling price of the used car by using Machine Learning model.
 
