@@ -23,11 +23,11 @@ The columns in the given dataset are as follows:
 
 ## Software and Libraries
 
-This project uses the following software and Python libraries:
+This project uses the following software and Python frameworks/libraries:
 
-    - Python
-    - NumPy
-    - pandas
+    Python
+    NumPy
+    pandas
     matplotlib
     scikit-learn
     Flask
