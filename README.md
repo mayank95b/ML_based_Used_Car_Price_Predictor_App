@@ -25,16 +25,17 @@ The columns in the given dataset are as follows:
 
 This project uses the following software and Python libraries:
 
-    Python
-    NumPy
-    pandas
+    - Python
+    - NumPy
+    - pandas
     matplotlib
     scikit-learn
     Flask
     Flasgger
     Swagger
     Docker
-
+    Streamlit
+    
 ## Tools/IDE
 
 Jupyter notebook (IPython)
