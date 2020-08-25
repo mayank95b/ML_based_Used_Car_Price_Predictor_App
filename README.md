@@ -11,38 +11,41 @@ This dataset contains information about used cars listed on www.cardekho.com
 This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
 The columns in the given dataset are as follows:
 
-    name
-    year
-    selling_price
-    km_driven
-    fuel
-    seller_type
-    transmission
-    Owner
+- name
+- year
+- selling_price
+- km_driven
+- fuel
+- seller_type
+- transmission
+- Owner
 
 
 ## Software and Libraries
 
 This project uses the following software and Python frameworks/libraries:
 
-    Python
-    NumPy
-    pandas
-    matplotlib
-    scikit-learn
-    Flask
-    Flasgger
-    Swagger
-    Docker
-    Streamlit
+- Python
+- NumPy
+- pandas
+- matplotlib
+- scikit-learn
+- Flask
+- Flasgger
+- Swagger
+- Docker
+- Streamlit
     
 ## Tools/IDE
 
-Jupyter notebook (IPython)
-Docker
+- Jupyter notebook (IPython)
+- Docker
+- Atom
 
 ## How to use it
 
     Fork this repository to have your own copy
     Clone your copy on your local system
-    Install necessary packages
+    Install docker desktop software
+    build the docker file using : "sudo docker build -t car_api"
+    run the docker using : "docker run -p 8000:8000 car_api"
